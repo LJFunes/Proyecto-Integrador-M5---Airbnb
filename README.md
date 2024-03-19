@@ -44,10 +44,19 @@ Aunque inicialmente se seleccionaron más campos, muchos fueron descartados debi
 
 ## Descripción del Análisis Exploratorio de los Datos:
 
-Para explorar y describir las variables junto con sus relaciones utilizando herramientas de visualización de datos y estadísticas, se empleó PowerBI para crear un [dashboard](#dashboard-airbnb). En esta fase, se seleccionaron cuatro filtros principales: por barrio, tipo de propiedad, disponibilidad (ya sea ocupado o disponible), y fecha. Posteriormente, se incluyeron seis tarjetas informativas para presentar de manera resumida la cantidad total de hospedajes, la suma total de los precios por noche, la capacidad nocturna para albergar personas, así como tres tarjetas relacionadas con las reseñas, incluyendo el total de reseñas, el número de reseñas por mes, y un rating promedio que se calcula en base a todas las puntuaciones recibidas en los diversos aspectos relacionados con los comentarios (este rating puede servir como un indicador de la calidad de los hospedajes en un barrio específico, así como la cantidad de visitantes, dado que la mayoría deja reseñas).
+(<br>
 
-#### Dashboard Airbnb
-![](images/dashboard_completo_airbnb.png)
+<p align="center">
+<img src="https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/dashboard_completo_airbnb.png" alt="imagen del dashboard creado en power bi" width="650" height="370">
+</p>
+<p align="center">
+<i>Dashboard en Power Bi</i>
+</p>
+
+<br>)
+
+Para explorar y describir las variables junto con sus relaciones utilizando herramientas de visualización de datos y estadísticas, se empleó PowerBI para crear un dashboard. En esta fase, se seleccionaron cuatro filtros principales: por barrio, tipo de propiedad, disponibilidad (ya sea ocupado o disponible), y fecha. Posteriormente, se incluyeron seis tarjetas informativas para presentar de manera resumida la cantidad total de hospedajes, la suma total de los precios por noche, la capacidad nocturna para albergar personas, así como tres tarjetas relacionadas con las reseñas, incluyendo el total de reseñas, el número de reseñas por mes, y un rating promedio que se calcula en base a todas las puntuaciones recibidas en los diversos aspectos relacionados con los comentarios (este rating puede servir como un indicador de la calidad de los hospedajes en un barrio específico, así como la cantidad de visitantes, dado que la mayoría deja reseñas).
+
 
 Además, se incorporaron gráficos de columnas agrupadas y líneas para examinar la evolución temporal de la demanda (según la ocupación y disponibilidad) y el precio promedio por noche. Se incluyó un mapa que visualiza la suma total del precio pagado por noche en todos los alojamientos por barrio en la ciudad de Buenos Aires, lo que permite identificar los barrios con mayor potencial de ganancias. También se agregó un gráfico de barras apiladas que muestra la distribución de distintos tipos de propiedades.
 
