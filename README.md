@@ -44,7 +44,7 @@ Aunque inicialmente se seleccionaron más campos, muchos fueron descartados debi
 
 ## Descripción del Análisis Exploratorio de los Datos:
 
-(<br>
+<br>
 
 <p align="center">
 <img src="https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/dashboard_completo_airbnb.png" alt="imagen del dashboard creado en power bi" width="650" height="370">
@@ -53,7 +53,7 @@ Aunque inicialmente se seleccionaron más campos, muchos fueron descartados debi
 <i>Dashboard en Power Bi</i>
 </p>
 
-<br>)
+<br>
 
 Para explorar y describir las variables junto con sus relaciones utilizando herramientas de visualización de datos y estadísticas, se empleó PowerBI para crear un dashboard. En esta fase, se seleccionaron cuatro filtros principales: por barrio, tipo de propiedad, disponibilidad (ya sea ocupado o disponible), y fecha. Posteriormente, se incluyeron seis tarjetas informativas para presentar de manera resumida la cantidad total de hospedajes, la suma total de los precios por noche, la capacidad nocturna para albergar personas, así como tres tarjetas relacionadas con las reseñas, incluyendo el total de reseñas, el número de reseñas por mes, y un rating promedio que se calcula en base a todas las puntuaciones recibidas en los diversos aspectos relacionados con los comentarios (este rating puede servir como un indicador de la calidad de los hospedajes en un barrio específico, así como la cantidad de visitantes, dado que la mayoría deja reseñas).
 
