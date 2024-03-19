@@ -44,16 +44,7 @@ Aunque inicialmente se seleccionaron más campos, muchos fueron descartados debi
 
 ## Descripción del Análisis Exploratorio de los Datos:
 
-<br>
-
-<p align="center">
-<img src="https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/dashboard_completo_airbnb.png" alt="imagen del dashboard creado en power bi" width="650" height="370">
-</p>
-<p align="center">
-<i>Dashboard en Power Bi</i>
-</p>
-
-<br>
+![](https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/dashboard_completo_airbnb.png)
 
 Para explorar y describir las variables junto con sus relaciones utilizando herramientas de visualización de datos y estadísticas, se empleó PowerBI para crear un dashboard. En esta fase, se seleccionaron cuatro filtros principales: por barrio, tipo de propiedad, disponibilidad (ya sea ocupado o disponible), y fecha. Posteriormente, se incluyeron seis tarjetas informativas para presentar de manera resumida la cantidad total de hospedajes, la suma total de los precios por noche, la capacidad nocturna para albergar personas, así como tres tarjetas relacionadas con las reseñas, incluyendo el total de reseñas, el número de reseñas por mes, y un rating promedio que se calcula en base a todas las puntuaciones recibidas en los diversos aspectos relacionados con los comentarios (este rating puede servir como un indicador de la calidad de los hospedajes en un barrio específico, así como la cantidad de visitantes, dado que la mayoría deja reseñas).
 
@@ -115,12 +106,14 @@ Al poder calcular el indice de confiabilidad el mejor barrio a invertir es **PAL
 
 - **Grafico de Barras:**
 
-![alt text](images/Palermo_ind_confianza.png)
+![](https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/Palermo_ind_confianza.png)
+
+![](https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/image.png)
 
 - **Grafico de barras en el año:** Nos indica como ha ido evolucionando en el barrio de Palermo, donde se ve un incremento notorio en la tasa de ocupación y en la rentabilidad, pero es necesario considerar que el recuento comienza en abril del año del 2020 momento en el cuál se encontraban las políticas de COVID que restringían el turismo razón por la cual hubo una baja considerable de la renta de alojamiento.
 
 
-![alt text](images/Palermo_año.png)
+![](https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/Palermo_a%C3%B1o.png)
 
 Y es por las razones antes mencionadas que Palermo es el mejor lugar para invertir y de hacerlo de manera inmediata se aprovecharía el posicionamiento en el mercado por el crecimiento de la demanda en los siguientes meses.
 
@@ -130,7 +123,7 @@ En cuanto al tipo de propiedad elegimos para invertir la propiedad de **apartame
 
 El indice de confianza nos denota que los apartamentos son 7 veces más confiables que los condominios que están en segundo lugar, en donde la gente va a hospedarse.
 
-![alt text](images/image.png)
+![](https://github.com/LJFunes/Proyecto-Integrador-M5---Airbnb/blob/main/Images/image.png)
 
 En terminos de rentabilidad, se puede decir que los apartamentos en Palermo tienen una rentabilidad de alrededor 20.7 millones de dolares incluso frente a 4.9 millones de dolares que dejan los condominios.
 
